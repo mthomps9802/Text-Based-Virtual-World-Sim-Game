@@ -12,7 +12,7 @@ The Player has a carrying capacity and a leadership parameter. The carrying capa
 Escapees are friendly characters who always want to escape. You can lead a limited number of them
 Guards try to stop specific escapees, including yourself.
 
-###Encounters with Guards
+### Encounters with Guards
 If guards outnumber escapees in a room, everyone is sent back to their starting positions. You can only be caught 5 times—after that, you lose.
 If there are more escapees than guards, only guards whose targets are present will start chasing the group.
 
