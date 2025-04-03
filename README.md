@@ -1,4 +1,4 @@
-# Text-Based_C_Game
+# Text-Based Virtual World Sim
 
 Rules:
 
